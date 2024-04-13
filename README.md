@@ -1,10 +1,11 @@
 <!--Banner Start-->
-<!--
+
 <p align="center">
-  <a href="#blank"><img src="icon/Banner.png" alt="HackResist"></a>
+  <a href="#blank"><img src="icon/Banner.png" alt="Code Joker"></a>
 </p>
--->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=6172FF&center=true&vCenter=true&random=false&width=835&lines=%F0%9F%91%8BHello,+I+am+code+joker+Welcome+to+my+world!%F0%9F%91%8B;+%F0%9F%9A%80+Let's+create+something+new+together!+%F0%9F%9A%80;%E2%9C%A8in+the+virtual+world+of+technology+and+beyond.+%E2%9C%A8)](https://git.io/typing-svg)
+
 <!--Banner End-->
 <!--About Me Start-->
 
@@ -17,20 +18,22 @@
 
 >🎓 I am a Second year Bachelor of Technology in <strong>Computer Science and Engineering</strong> student at Apex Institute of Engineering and Technology, Jaipur.
 
-> 🔍 Always eager to learn and grow in the field of technology, with a keen interest in integrating hardware and software solutions.
+> 🔍I am a Quick learner and I would like to looking for new technologies idea's and I am very energetic and sports person.
 
-> 🛠 Currently working on IoT projects to develop innovative solutions that leverage the power of connected devices and data.
+> 🌱 I wanna become a export programmer in Python programming language language.
 
-> 🔭 Check out my GitHub repositories to see my projects and contributions.
+> 🛠 Now a day's I am going to working on mini project's using Python .
 
-<!-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
--->
->  📫 Let's connect! Feel free to reach out for discussions on IoT, programming, or any tech-related topics.
+> 🔭 Let's Check out my GitHub repositories to see my projects and contributions.It's Open for every one !.
+
+> 💬 I believe we can take education to a higher level. Let's create an inspiring and sustainable educational future together.!
+
+>  📫 Let's connect! on Digital learning platform.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/madakam-shankar-babu-857873295/"><img src="https://img.shields.io/badge/Linkedin-10000?style=plastic&logo=LinkedIn&logoColor=FFFFFF&labelColor=2A79D7&color=2A79D7" alt="Madakam shankar Babu  | Linkdin"/></a>
   <a href="https://t.me/Eeprlogin"><img src="https://img.shields.io/badge/Telegram-100000?style=plastic&logo=Telegram&logoColor=FF&labelColor=070858&color=070858" alt="Msnani Babu | Telegram"/></a>
-   <!--- <a href="https://discordapp.com/users/devloperlokesh"><img src="https://img.shields.io/badge/Discord-100000?style=plastic&logo=discord&logoColor=F7F7F7&labelColor=000DFF&color=000DFF" alt="HackScripter | Discord"/></a> --->
+  <a href="https://discordapp.com/users/shankarbabu_90331"><img src="https://img.shields.io/badge/Discord-100000?style=plastic&logo=discord&logoColor=F7F7F7&labelColor=000DFF&color=000DFF" alt="HackScripter | Discord"/></a>
 </p>
 <!--About Me End-->
 
@@ -38,8 +41,8 @@
 
 ## ![Join With Me](/icon/join.svg) Join With Me 
 <p align="center">
-  <!-- <a href="https://discord.com/invite/yGnCBRzjA5"><img src="https://img.shields.io/badge/Discord-100000?style=plastic&logo=discord&logoColor=F7F7F7&labelColor=000DFF&color=000DFF" alt="HackScripter | Discord"/>
-    </a> -->
+    <a href="https://discord.gg/kHkqYUWK"><img src="https://img.shields.io/badge/Discord-100000?style=plastic&logo=discord&logoColor=F7F7F7&labelColor=000DFF&color=000DFF" alt="HackScripter | Discord"/>
+    </a>
 
 </p>
 <!--Join With Me End -->
@@ -51,11 +54,11 @@
     <a href="https://www.hackerrank.com/profile/msbabunani"><img src="https://img.shields.io/badge/Hackerrank-100000?style=plastic&logo=hackerrank&logoColor=FFFFFF&labelColor=42BA3D&color=0EA608" alt="Lokesh Chauhan | Hackerrank"/></a>
    <!-- <a href="https://auth.geeksforgeeks.org/user/lokeshchauhan"><img src="https://img.shields.io/badge/GeeksforGeeks-100000?style=plastic&logo=geeksforgeeks&logoColor=FFFFFF&labelColor=42BA3D&color=23891F" alt="Lokesh Chauhan | GeeksforGeeks"/></a> -->
   <a href="https://www.linkedin.com/in/madakam-shankar-babu-857873295/"><img src="https://img.shields.io/badge/Linkedin-10000?style=plastic&logo=LinkedIn&logoColor=FFFFFF&labelColor=2A79D7&color=2A79D7" alt="Madakam Shankar Babu  | Linkdin"/></a>
-   </a>
-  <!--  <a href="https://replit.com/@HackResist"><img src="https://img.shields.io/badge/Replit-100000?style=plastic&logo=replit&logoColor=f26207&labelColor=051E59&color=0e1525" alt="Lokesh Chauhan | Replit"/>
+  <a href="https://www.geeksforgeeks.org/user/msbabu1bkl/"><img src="https://img.shields.io/badge/GeeksforGeeks-100000?style=plastic&logo=geeksforgeeks&logoColor=FFFFFF&labelColor=42BA3D&color=23891F" alt="Lokesh Chauhan | GeeksforGeeks"/></a>
+   <a href="https://replit.com/@msbabunani"><img src="https://img.shields.io/badge/Replit-100000?style=plastic&logo=replit&logoColor=f26207&labelColor=051E59&color=0e1525" alt="Lokesh Chauhan | Replit"/>
     </a>
 
--->
+
 
  
 
