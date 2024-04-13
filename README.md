@@ -4,7 +4,7 @@
   <a href="#blank"><img src="icon/Banner.png" alt="HackResist"></a>
 </p>
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=6172FF&center=true&vCenter=true&random=false&width=835&lines=%F0%9F%91%8BHello,+My+name+is+Shankar+Welcome+to+my+world!%F0%9F%91%8B;+%F0%9F%9A%80+Let's+create+something+new+together!+%F0%9F%9A%80;%E2%9C%A8in+the+virtual+world+of+technology+and+beyond.+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=6172FF&center=true&vCenter=true&random=false&width=835&lines=%F0%9F%91%8BHello,+I+am+code+joker+Welcome+to+my+world!%F0%9F%91%8B;+%F0%9F%9A%80+Let's+create+something+new+together!+%F0%9F%9A%80;%E2%9C%A8in+the+virtual+world+of+technology+and+beyond.+%E2%9C%A8)](https://git.io/typing-svg)
 <!--Banner End-->
 <!--About Me Start-->
 
