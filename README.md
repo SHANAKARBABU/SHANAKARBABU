@@ -9,11 +9,13 @@
 <!--About Me Start-->
 
 ## 😄 About Me
-> 👋 Hello, I'm Shankar
+> 👋 Hello, My name is Shankar great to see you here !
 
-> 🎓 Currently pursuing Bachelor's degree in Computer Science and Engineering at Apex University, Jaipur.
+> 🎓 I am a student of Computer Science and Engineering at Apex University, Jaipur.
 
-> 🌟 Passionate about the Machine Learning  and Artificial Intelligence.
+> 🌟 Passionate about the AI and machine learning,and I have interest about Neural Network,Let's try to be a part the same case.
+
+>🎓 I am a Second year Bachelor of Technology in <strong>Computer Science and Engineering</strong> student at Apex Institute of Engineering and Technology, Jaipur.
 
 > 🔍 Always eager to learn and grow in the field of technology, with a keen interest in integrating hardware and software solutions.
 
