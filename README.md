@@ -1,6 +1,6 @@
 <!-- Banner Start -->
 <p align="center">
-  <a href="#blank"><img src="icon/Banner.png" alt="Code Joker"></a>
+  <a href="#blank"><img src="C:/Users/Shankar/OneDrive/Desktop/HackResist-main/HackResist-main/icon/Banner.png" alt="Code Joker"></a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=6172FF&center=true&vCenter=true&width=835&lines=Hello!+I+am+Madakam+Shankar+Babu.;Welcome+to+My+World!;Let's+Create+Something+Innovative+Together.;Exploring+AI,+ML,+and+Sustainable+Tech!)](https://git.io/typing-svg)
@@ -54,7 +54,7 @@ Creating sustainable farming practices under the initiative **Desi Prakriti**, f
 
 ---
 
-## ![Join With Me](icon/join.svg) Join With Me
+## ![Join With Me](C:/Users/Shankar/OneDrive/Desktop/HackResist-main/HackResist-main/icon/join.svg) Join With Me
 <p align="center">
   <a href="https://discord.gg/kHkqYUWK"><img src="https://img.shields.io/badge/Discord-100000?style=plastic&logo=discord&logoColor=F7F7F7&labelColor=000DFF&color=000DFF" alt="Join Me on Discord"></a>
 </p>
@@ -66,14 +66,14 @@ Creating sustainable farming practices under the initiative **Desi Prakriti**, f
 
 ---
 
-## ![GitHub Stats](icon/graph.svg) GitHub Stats
+## ![GitHub Stats](C:/Users/Shankar/OneDrive/Desktop/HackResist-main/HackResist-main/icon/graph.svg) GitHub Stats
 <p align="center">
   <a href="https://github.com/SHANKARBABU"><img src="https://github-readme-stats.vercel.app/api?username=SHANKARBABU&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"></a>
 </p>
 
 ---
 
-## ![Follow Me](icon/follow.svg) Follow Me On
+## ![Follow Me](C:/Users/Shankar/OneDrive/Desktop/HackResist-main/HackResist-main/icon/follow.svg) Follow Me On
 <p align="center">
   <a href="https://www.hackerrank.com/profile/msbabunani"><img src="https://img.shields.io/badge/Hackerrank-100000?style=plastic&logo=hackerrank&logoColor=FFFFFF&labelColor=42BA3D&color=0EA608" alt="Hackerrank"></a>
   <a href="https://www.geeksforgeeks.org/user/msbabu1bkl/"><img src="https://img.shields.io/badge/GeeksforGeeks-100000?style=plastic&logo=geeksforgeeks&logoColor=FFFFFF&labelColor=42BA3D&color=23891F" alt="GeeksforGeeks"></a>
